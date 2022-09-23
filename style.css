@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&family=Yellowtail&display=swap');
+*{
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+
+h1 {
+  font-family: 'YellowTail', cursive;
+  font-size: 30pt;
+}
+h4 { 
+  font-family: 'Arial Narrow', Arial, sans-serif;
+  color: gray;
+  font-size: medium;
+}
+#Logo{
+  margin-right: 10px;
+}
+
+#leftHeader{
+  display: flex;
+  height: 65px;
+  margin-bottom: 5px;
+  margin-left: 75px;
+  
+
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  margin-top: 35px;
+}
+
+#Socials{
+  glyph-orientation-horizontal: 0deg;
+}
+
+#twoButtons{
+  margin-left: 20px;
+
+}
+#rightHeader{
+  display: flex;
+  margin-right: 75px;
+  margin-top: 20px;
+  
+}
+
+#weirdImg{
+  background-image: url(./lab-assets/hr-img.png);
+  height: 20px;
+  width: 100%;
+  
+}
